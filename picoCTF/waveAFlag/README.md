@@ -1,4 +1,4 @@
-# Warm from picoCTF
+# Wave a flag
 
 ## Solution:
 
