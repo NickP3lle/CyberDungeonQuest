@@ -2,7 +2,7 @@ cipher = "cvpbPGS{arkg_gvzr_V'yy_gel_2_ebhaqf_bs_ebg13_Ncualgvd}"
 key = 13
 
 
-def rot13(cipher):
+def solveCipher(cipher):
     plain = ""
     for c in cipher:
         if c.isalpha():
@@ -15,4 +15,4 @@ def rot13(cipher):
     return plain
 
 
-print(rot13(cipher))
+print(solveCipher(cipher))

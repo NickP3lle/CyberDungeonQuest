@@ -1,5 +1,9 @@
 # Wave a flag
 
+Can you invoke help flags for a tool or binary?
+
+Link: [picoCTF](https://play.picoctf.org/practice/challenge/170?page=1&search=)
+
 ## Solution:
 
 <details>
