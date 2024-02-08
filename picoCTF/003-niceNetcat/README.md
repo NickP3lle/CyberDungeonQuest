@@ -1,4 +1,4 @@
-# Wave a flag
+# Nice Netcat
 
 There is a nice program that you can talk to, but it doesn't speak English... or does it? `nc mercury.picoctf.net 35652`
 
