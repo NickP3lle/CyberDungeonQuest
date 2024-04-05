@@ -40,7 +40,5 @@ print(f"Lenght of flag: {len(plain)}")
 print(f"Length of cipher: {len(cipher)}")
 print(f"Flag: {plain}")
 
-# There is a missing character in the flag. As in the prevoius challenge, we can try with a question mark or exclamation mark.
+# There is a missing character in the flag. As seen in the prevoius challenge, we can try with a question mark or exclamation mark.
 # Answer: question mark
-
-# CCIT{d3crypt_0r_3ncrypt_m3?}
