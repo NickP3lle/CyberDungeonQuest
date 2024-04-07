@@ -8,9 +8,4 @@ Link: [CyberChallenge](https://cyberchallenge.it)
 
 ## Solution:
 
-<details>
-	<summary>Click here to see the solution</summary>
-
-1. Work in progress
-
-</details>
+The explained solution can be found in the [solve.ipynb](solution/solve.ipynb) notebook.
