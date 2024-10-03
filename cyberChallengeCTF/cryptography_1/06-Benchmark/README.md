@@ -11,4 +11,6 @@ Link: [CyberChallenge](https://cyberchallenge.it)
 
 1. Work in progress
 
+All the code can be found in [solve.py](solution/solve.py).
+
 </details>
