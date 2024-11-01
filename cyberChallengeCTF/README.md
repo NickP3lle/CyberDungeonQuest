@@ -8,4 +8,4 @@ While every effort has been made to ensure the accuracy of the solutions present
 
 By accessing and using the content within this repository, you agree to abide by these terms and acknowledge that any misuse of these solutions is strictly prohibited.
 
-### [CyberChallenge.IT CTF 2024](https://cyberchallenge.it/)
+[CyberChallenge.IT CTF 2024](https://cyberchallenge.it/)
