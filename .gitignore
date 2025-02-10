@@ -1,6 +1,4 @@
 *.DS_Store
 *.vscode
 *.ipynb_checkpoints
-
-cyberChallengeCTF/pre-test/
-cyberChallengeCTF/slides/
+*.i64
